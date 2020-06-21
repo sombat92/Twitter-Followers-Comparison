@@ -1,1 +1,1 @@
-# Py-Twitter-Followers-Comparison
+# Twitter-Followers-Comparison
